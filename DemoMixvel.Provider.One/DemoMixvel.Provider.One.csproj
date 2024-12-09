@@ -15,8 +15,4 @@
 	  <ProjectReference Include="..\DemoMixvel.Data\DemoMixvel.Data.csproj" />
 	</ItemGroup>
 
-	<ItemGroup>
-	  <Folder Include="Availability\" />
-	</ItemGroup>
-
 </Project>
